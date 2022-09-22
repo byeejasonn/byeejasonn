@@ -9,6 +9,10 @@ Currently learning to be a great web developer aware of all technologies i'm abl
 ![PLSQL](https://img.shields.io/badge/-ORACLE_SQL-F80000?logo=oracle&labelColor=000)
 ![JAVA](https://img.shields.io/badge/-JAVA-F4BB01?logo=oracle&labelColor=000)
 
+## Social:
+
+![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000&link=https://www.instagram.com/byeejasonn/&link=http://left&link=http://right)
+
 
 <div align="center">
 <img src="https://c.tenor.com/yLl_Tx1j5S0AAAAC/the-legend-of-zelda-breath-of-the-wild-legend-of-zelda-breath-of-the-wild.gif">
