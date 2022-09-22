@@ -12,7 +12,9 @@ Currently learning to be a great web developer aware of all technologies i'm abl
 ## Social:
 
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000)](https://www.instagram.com/byeejasonn/)
+[![TWITTER](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&labelColor=000)](https://twitter.com/byeejasonn)
 
+***
 
 <div align="center">
 <img src="https://c.tenor.com/yLl_Tx1j5S0AAAAC/the-legend-of-zelda-breath-of-the-wild-legend-of-zelda-breath-of-the-wild.gif">
