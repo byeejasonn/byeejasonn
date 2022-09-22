@@ -11,7 +11,7 @@ Currently learning to be a great web developer aware of all technologies i'm abl
 
 ## Social:
 
-![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000&link=http://left&link=http://right&link=https://www.instagram.com/byeejasonn/)
+[![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000)](https://www.instagram.com/byeejasonn/)
 
 
 <div align="center">
