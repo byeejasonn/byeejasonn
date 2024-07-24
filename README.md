@@ -7,11 +7,6 @@
 ![PLSQL](https://img.shields.io/badge/-ORACLE_SQL-F80000?logo=oracle&labelColor=000)
 ![JAVA](https://img.shields.io/badge/-JAVA-F4BB01?logo=oracle&labelColor=000)
 
-## Social:
-
-[![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000)](https://www.instagram.com/byeejasonn/)
-[![TWITTER](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&labelColor=000)](https://twitter.com/byeejasonn)
-
 ***
 
 <div align="center">
