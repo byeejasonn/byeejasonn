@@ -1,7 +1,5 @@
 # Hello there, I'm Jason 👋
 
-Currently learning to be a great web developer aware of all technologies i'm able to use for it or the most i can.
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=000)
 ![JAVASCRIPT](https://img.shields.io/badge/-POOR_JS-F7DF1E?logo=JavaScript&labelColor=000)
