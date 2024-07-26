@@ -1,12 +1,5 @@
 # Hello there, I'm Jason 👋
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=000)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=000)
-![JAVASCRIPT](https://img.shields.io/badge/-POOR_JS-F7DF1E?logo=JavaScript&labelColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&labelColor=000)
-![PLSQL](https://img.shields.io/badge/-ORACLE_SQL-F80000?logo=oracle&labelColor=000)
-![JAVA](https://img.shields.io/badge/-JAVA-F4BB01?logo=oracle&labelColor=000)
-
 ***
 
 <div align="center">
